@@ -1,0 +1,570 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LookBook for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-15 09:43+0000\n"
+"PO-Revision-Date: 2024-05-15 03:04+0000\n"
+"Last-Translator: VillaTheme\n"
+"Language-Team: Vietnamese\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.3\n"
+"X-Domain: woo-lookbook"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:641
+msgid "3"
+msgstr "3"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:643
+msgid "4"
+msgstr "4"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:645
+msgid "5"
+msgstr "5"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/product.php:53
+msgid "Above Description Tab"
+msgstr "Phía trên thẻ mô tả"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/includes/instagram.php:190
+msgid "Access token is expired"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/includes/instagram.php:161
+msgid "Access token is not exist"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/lookbook.php:433
+msgid "Add Image"
+msgstr "Thêm ảnh"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/admin.php:115
+msgid "Add New"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/admin.php:116
+msgid "Add New Lookbook"
+msgstr "Thêm Lookbook mới"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/lookbook.php:379
+msgid "Add node"
+msgstr "Thêm nút"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/product.php:98
+msgid "Align"
+msgstr "Căn chỉnh"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/admin.php:120
+msgid "All Lookbooks"
+msgstr "Tất cả Lookbooks"
+
+#. Description of the plugin
+msgid ""
+"Allows you to create realistic lookbooks of your products. Help your "
+"customers visualize what they purchase from you."
+msgstr ""
+"Cho phép bạn tạo ra những lookbook ấn tượng cho sản phẩm của mình. Giúp "
+"khách hàng ngắm sản phẩm một cách trực quan trước khi mua."
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:463
+msgid "Auto play"
+msgstr "Tự động trình chiếu"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:302
+msgid "Background Color"
+msgstr "Màu nền"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:211
+msgid "Background color"
+msgstr "Màu nền"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/product.php:54
+msgid "Below Description Tab"
+msgstr "Phía dưới thẻ mô tả"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:222
+msgid "Border color"
+msgstr "Màu viền"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:313
+msgid "Border radius"
+msgstr "Bo viền"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:628
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/includes/elementor/widget.php:103
+msgid "Carousel"
+msgstr "Carousel"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/includes/elementor/widget.php:64
+msgid "Carousel/Gallery"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/product.php:101
+msgid "Center"
+msgstr "Ở giữa"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:171
+msgid ""
+"Click on Nodes will redirect the page to the external link instead of the "
+"single product page. Working only with External/Affiliate products."
+msgstr ""
+"Nhấp vào nút sẽ chuyển hướng tới đường dẫn ngoài thay vì trang chi tiết sản "
+"phẩm. Chỉ hoạt động với sản phẩm ngoài/liên kết. "
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:154
+msgid "Click on Nodes will redirect the page to the single product page."
+msgstr "Nhấp vào nút sẽ chuyển hướng tới trang chi tiết sản phẩm."
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:200
+msgid "Color"
+msgstr "Màu"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:500
+msgid "Custom CSS"
+msgstr "Tùy chỉnh CSS"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:495
+msgid "Custom Script"
+msgstr "Tập lệnh tùy chỉnh"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:712
+msgid "Data Update"
+msgstr "Cập nhật dữ liệu"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/admin.php:129
+msgid "Description."
+msgstr "Mô tả."
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:127
+msgid "Design"
+msgstr "Thiết kế"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:619
+msgid "Display"
+msgstr "Hiển thị"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:651
+msgid "Display limit"
+msgstr "Giới hạn hiển thị"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/lookbook.php:117
+msgid "Draft"
+msgstr "Nháp"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:479
+msgid "Duration"
+msgstr "Thời hạn"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/admin.php:118
+msgid "Edit Lookbook"
+msgstr "Sửa Lookbook"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:413
+msgid "Effect"
+msgstr "Hiệu ứng"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/product.php:43
+msgid "Enable"
+msgstr "Bật"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/product.php:46
+msgid "Enable to display Lookbook on the single product page"
+msgstr "Bật để hiện Lookbook trên trang chi tiết sản phẩm"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:160
+msgid "External Link"
+msgstr "Liên kết ngoài"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/includes/instagram.php:207
+msgid "Facebook SDK returned an error: "
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:422
+msgid "Fade"
+msgstr "Mờ dần"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:626
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/includes/elementor/widget.php:104
+msgid "Gallery"
+msgstr "Thư viện ảnh"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/includes/elementor/widget.php:50
+msgid "General"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/includes/instagram.php:204
+msgid "Graph returned an error: "
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:397
+msgid "Height"
+msgstr "Độ cao"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:329
+msgid "Hide Close Button"
+msgstr "Ẩn nút đóng"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:346
+msgid "Hide See More Button"
+msgstr "Ẩn nút xem thêm"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:234
+msgid "Hide Title"
+msgstr "Ẩn tiêu đề"
+
+#. Author URI of the plugin
+msgid "http://villatheme.com"
+msgstr "http://villatheme.com"
+
+#. URI of the plugin
+msgid "https://villatheme.com/extensions/woocommerce-lookbook/"
+msgstr "https://villatheme.com/extensions/woocommerce-lookbook/"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:188
+msgid "Icon"
+msgstr "Biểu tượng"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/lookbook.php:158
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/lookbook.php:310
+msgid "Image"
+msgstr "Ảnh"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:725
+msgid "Image Quantity"
+msgstr "Chất lượng ảnh"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:698
+msgid "Image Status"
+msgstr "Trạng thái ảnh"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/lookbook.php:157
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:133
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/includes/elementor/widget.php:65
+msgid "Instagram"
+msgstr "Instagram"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/includes/instagram.php:170
+msgid "Instagram id is not exist"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/includes/elementor/widget.php:98
+msgid "Layout"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/product.php:102
+msgid "Left"
+msgstr "Bên trái"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/includes/instagram.php:247
+msgid "Link Callback not found!"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:143
+msgid "Link Redirect"
+msgstr "Đường dẫn trực tiếp"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:662
+msgid "Link to Instagram"
+msgstr "Đường dẫn tới Instagram"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:733
+#| msgid ""
+#| "List images are get from API. The fewer quantity sync faster. Maximum:12"
+msgid "List images are get from API. The fewer quantity sync faster."
+msgstr ""
+"Danh sách ảnh lấy về từ API. Số lượng ảnh ít sẽ giúp đồng bộ nhanh hơn."
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/lookbook.php:298
+msgid "Loading"
+msgstr "Đang tải"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:279
+msgid "Loading Icon"
+msgstr "Biểu tượng đang tải "
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/product.php:124
+msgid "LookBook"
+msgstr "Lookbook"
+
+#. Name of the plugin
+msgid "LookBook for WooCommerce"
+msgstr "LookBook for WooCommerce"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/admin.php:163
+msgid "LookBook for WooCommerce Setting page"
+msgstr "Trang cài đặt LookBook for WooCommerce"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:122
+msgid "LookBook for WooCommerce Settings"
+msgstr "Cài đặt LookBook for WooCommerce"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/product.php:71
+msgid "Lookbooks"
+msgstr "Lookbooks"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:706
+msgid "Lookbooks status after images are imported."
+msgstr "Trạng thái Lookbook sau khi ảnh được nhập về"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:487
+msgid "milliseconds"
+msgstr "mili giây"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/admin.php:117
+msgid "New Lookbook"
+msgstr "Lookbook mới"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/admin.php:124
+msgid "No books found in Trash."
+msgstr "Không tìm thấy lookbook trong thùng rác"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/admin.php:123
+msgid "No books found."
+msgstr "Không tìm thấy lookbook."
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/lookbook.php:318
+msgid "Node"
+msgstr "Nút"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:182
+msgid "Node Options"
+msgstr "Tùy chọn nút"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:635
+msgid "Number items per row"
+msgstr "Số đối tượng trên một hàng"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/admin.php:122
+msgid "Parent Lookbooks:"
+msgstr "Lookbooks cha(gốc):"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/lookbook.php:115
+msgid "Pending"
+msgstr "Đang chờ xử lý"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/woo-lookbook.php:94
+msgid ""
+"Please install and activate WooCommerce to use LookBook for WooCommerce."
+msgstr ""
+"Vui lòng cài đặt và kích hoạt WooCommerce để sử dụng LookBook for "
+"WooCommerce."
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/product.php:50
+msgid "Position"
+msgstr "Vị trí"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:130
+msgid "Product"
+msgstr "Sản phẩm"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/frontend/shortcode.php:246
+msgid "Product added successful"
+msgstr "Sản phẩm được thêm thành công"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/lookbook.php:113
+msgid "Publish"
+msgstr "Đăng"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:321
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:390
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:405
+msgid "px"
+msgstr "px"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:273
+msgid "Quick view"
+msgstr "Xem nhanh"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/lookbook.php:438
+msgid "Remove this image"
+msgstr "Xóa ảnh này"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/product.php:103
+msgid "Right"
+msgstr "Bên phải"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:364
+msgid "RTL"
+msgstr "RTL"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:742
+msgid "Save"
+msgstr "Lưu"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:684
+msgid "Schedule"
+msgstr "Lên lịch"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/admin.php:121
+msgid "Search Lookbooks"
+msgstr "Tìm Lookbook"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/lookbook.php:348
+msgid "Search your product"
+msgstr "Tìm sản phẩm của bạn"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/frontend/shortcode.php:101
+msgid "See more"
+msgstr "Xem thêm"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/product.php:67
+msgid "Select how lookbooks should be played."
+msgstr "Chọn cách hiển thị lookbook."
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/includes/elementor/widget.php:74
+msgid "Select id"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/includes/elementor/widget.php:86
+msgid "Select ids"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/product.php:56
+msgid "Select lookbook position."
+msgstr "Chọn vị trí lookbook."
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/product.php:90
+msgid "Select lookbooks to display. You add only 2 lookbooks. To use unlimited"
+msgstr "Chọn các lookbook để hiển thị. Bạn chỉ có thể thâm tối đa 2 look book."
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/includes/elementor/widget.php:58
+msgid "Select shortcode type"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/admin.php:89
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/admin.php:164
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/lookbook.php:159
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/lookbook.php:212
+msgid "Shortcode"
+msgstr "Mã ngắn"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/product.php:61
+msgid "Shortcode type"
+msgstr "Kiểu mã ngắn"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/includes/elementor/widget.php:63
+msgid "Single"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/product.php:64
+msgid "Single Image"
+msgstr "Ảnh đơn"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:420
+msgid "Slide"
+msgstr "Trình chiếu"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:446
+msgid "Slide Navigation"
+msgstr "Điều hướng trình chiếu"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:377
+msgid "Slide Options"
+msgstr "Tùy chọn trình chiếu"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:429
+msgid "Slide Pagination"
+msgstr "Phân trang trình chiếu"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/product.php:65
+msgid "Slides"
+msgstr "Trình chiếu"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:490
+msgid "Specify a time to advance to the next lookbook."
+msgstr "Chỉ định thời gian để chuyển sang lookbook tiếp theo."
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/lookbook.php:160
+msgid "Status"
+msgstr "Trạng thái"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:372
+msgid "Support RTL fully"
+msgstr "Hỗ trợ RTL đầy đủ"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/lookbook.php:196
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/lookbook.php:297
+msgid "Sync Instagram"
+msgstr "Đồng bộ Instagram"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:678
+msgid "Synchronize"
+msgstr "Đồng bộ"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:291
+msgid "Text Color"
+msgstr "Màu chữ"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:692
+msgid "The action will trigger when someone visits your WordPress site."
+msgstr "Hành động sẽ kích hoạt khi ai truy cập vào trang WordPress của bạn."
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:262
+msgid "Title Background Color"
+msgstr "Màu nền tiêu đề"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:251
+msgid "Title Color"
+msgstr "Màu tiêu đề"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/product.php:92
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:194
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:285
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:370
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:690
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:704
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:718
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:731
+msgid "Update this feature"
+msgstr "Nâng cấp tính năng"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/lookbook.php:373
+msgid "Upgrade Premium"
+msgstr "Nâng cấp bản trả phí"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/admin.php:119
+msgid "View Lookbook"
+msgstr "Xem Lookbook"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/frontend/shortcode.php:141
+msgid "View on Instagram"
+msgstr "Xem trên Instagram"
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr "VillaTheme"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/admin.php:112
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/admin.php:114
+msgid "WC Lookbook"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/admin.php:111
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/admin.php:113
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/includes/elementor/widget.php:35
+msgid "WC Lookbooks"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/settings.php:382
+msgid "Width"
+msgstr "Độ rộng"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/lookbook.php:355
+msgid "X"
+msgstr "X"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/lookbook.php:358
+msgid "Y"
+msgstr "Y"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/woo-lookbook/woo-lookbook/admin/lookbook.php:370
+msgid "You are using free version. You add only 2 nodes."
+msgstr "Bạn đang sử dụng phiên bản miễn phí nên chỉ có thể thêm tối đa 2 nút."
